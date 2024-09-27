@@ -3,7 +3,7 @@ import {NavLink} from 'react-router-dom';
 
 const Navbar = () => (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
-        <a className="navbar-brand" to="/">Ozge'nin Blogu</a>
+        <a className="navbar-brand" to="/"> Blog</a>
         <button 
             className="navbar-toggler" 
             type="button" 
